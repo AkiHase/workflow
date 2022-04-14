@@ -98,7 +98,7 @@ public:
 		addrinfo_ = NULL;
 		return p;
 	}
-
+	// ...
 protected:
 	int error_;
 	struct addrinfo *addrinfo_;
